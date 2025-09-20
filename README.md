@@ -1,2 +1,2 @@
-# translate
-pour un code
+# apple
+juste pour quelque code en python
